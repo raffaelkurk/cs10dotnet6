@@ -309,6 +309,8 @@
 - goto keyword and examples of when it can be used: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/goto
 - Pattern matching: https://docs.microsoft.com/en-us/dotnet/csharp/pattern-matching
 - Patterns and switch expressions: https://devblogs.microsoft.com/dotnet/do-more-with-patterns-in-c-8-0/
+- Pattern matching overview: https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/pattern-matching
+- Patterns (C# reference): https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns
 
 ## Casting, converting, rounding, and formatting data
 - Taking control of rounding: https://docs.microsoft.com/en-us/dotnet/api/system.math.round
@@ -455,7 +457,7 @@
 - Tutorial: Create an item template: https://docs.microsoft.com/en-us/dotnet/core/tutorials/cli-templates-create-item-template
 
 ## Packaging and publishing
-- PDB files: https://www.wintellect.com/pdb-files-what-every-developer-must-know/
+- PDB files: https://www.atmosera.com/blog/pdb-files-what-every-developer-must-know/
 - Single-file app issue: https://github.com/dotnet/runtime/issues/36590
 - App trimming: https://devblogs.microsoft.com/dotnet/app-trimming-in-net-5/
 - The PackageReference format: https://docs.microsoft.com/en-us/nuget/reference/msbuild-targets
